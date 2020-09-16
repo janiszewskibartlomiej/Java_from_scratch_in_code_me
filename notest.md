@@ -1,3 +1,4 @@
+```yaml
 Java course in codeme:
 
 Komputer - istotne elementy:
@@ -29,6 +30,6 @@ Mamy wiele mozliwosci koncowych wersji aplikacji i ni epotrzebujemy obecnei - wi
 maven ma plik pom.xml sa tam - grupa [np zwierzw], artefakt [malpa], versja [1.0], packag  te elemny to unikatowy projekt maiwenowy. bedziemy uzwaz POM czyli parentem projektu ktpry bedzie mial w sobie np 2 JAR
 
 versje sa okreslane 3 elementami 1 duze zmiany, 2 versja, 3 bugfixy-snapshot to wersja wstepna 
-
+```
 
 ![](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-16_11h53_43.png "linux command")
