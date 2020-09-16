@@ -35,4 +35,4 @@ versje sa okreslane 3 elementami 1 duze zmiany, 2 versja, 3 bugfixy-snapshot to 
 ```
 
 ![](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-16_11h53_43.png "linux command")
-1[](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-16_12h05_34.png "linux command 2")
+![](https://github.com/janiszewskibartlomiej/Java_from_scratch_in_code_me/blob/master/2020-09-16_12h05_34.png "linux command 2")
