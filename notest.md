@@ -115,3 +115,70 @@ if (warunek logiczny) {blok kodu >> wykonany jak warunke jest true
 porownianei ==
 rozny !=
 
+
+rekurencja >> wywwolywanie sie tej samej fukcji
+
+Programowanie obiektowe
+
+
+klasa auto   a cechy np moc, pojemnosc it nazwya sie polami  a funkcje nazywa sie metodami
+klasa to jest typ; obiekty moga w sobie zawierac obiekty
+klasa to hermetyzacja[odcinamy bloki kodu] lub enkapsulacja[robimy n kapsulek]
+
+klasa jest tylko informacją jak ma wygladac a obiekt to fizyczne stwonie danego obiektu na bazie projektu czyli klasy
+
+kwalifikator dostepu sluzy do informowania czy jest publiczne czy nie jset publiczna i dostepna dane pola
+
+== ni edzila przy typach obiektowych   obiekty poronujemy .equals
+
+bez kawalifikatora to dostepna jest ta klasa dla wszytskich w danym pakieciei nazwywa sie kwalifikatorem pakietowy, a jak robimy public to mozeby uzywac w szedzie w kazdym pakieciei
+
+wzorzec bina >> kazde pole robi sie prywatene a do pobierania i ustawiani robimy getery i setery
+
+konstrukto to metoda wywywolywana przy uzyciu slowa new.
+
+konstruktor nie zwarac typu i nazywa sie t samo jak klasa
+
+this reprezentuje to wszytsko co storzylismy
+
+przeciazenei np metod to w jednej klasie zdeklarowanie metody o tej samej nazwie ale roznia parametrami  >> jest to ustawiane bo java nie ma defaltowej wartosci
+
+skrut myslowy do zapisywania ilosci parametró np public int getWiek(Czlowiek...ludz)  >>> w tym wypadku mozna wrzucac duza ilosc danych tegi samegotypu   ... == tablica o n elementach wiec podajemy np Czlowie(pierwszy, drugi trzeci)
+
+
+rekurencje warto uzywac gdy nie wiemy ile razy petli mamy uzyc leprza jest petla
+
+01/10/2020
+
+programowanie obiektowe, dziedziczenie
+
+Dziedziczenie >> zeby nie powelac kodu to robimy dziedziczenie poniewaz np ciezarowka dzidziczy po aucie np pojemnosc, kolor metode start i stop
+
+this odnosi sie do nas samych a super odnosi sie do dziedziczonej klasy
+kazda klasa moze dziedziczyc tylko po jednej klasie, natomiast mozemy miec dluga liste przodkow
+.
+super odwoluje sie do tylko jednego przodka
+
+nazwa zmiennej nagminie nazywa sie  tak jak stworzona klasa !
+
+wszytskie obiekty w java dziedzicza po Object !!!
+
+obiekty nie sa rowne poniewaz zajmuja zupelnie inne miejsce w pamieci
+
+
+dodatkowe zmiene w konstruktorze dopiero po super()
+
+wrzystki dane liczbowe rymitywne sa domyslnie 0
+zienne lokalne uzywa sie int a w obiektach uzywa sie Integer
+
+
+jezlei pole jest private to nie ma dostepu do niego w parencie czy dziedziczeniu
+
+jezeli zrobimy pole protected to bedzie dostepne w kazdym pokoleniu, protekted jest widoczne wewnatrz naszego obiektu
+
+
+przyslanianie > w klasie ktora dzidziczy metody nadpisujemy je / przysłaniamy poprzez identyczna nazwe metody i parametrow
+to jest doprecyzowywanie metod w danej klasie
+
+referencja - sposubb przekazywania poprzez adres w oamieci >> wskaznik
+a przy typach prymitywnych wartosc przekazujemy
